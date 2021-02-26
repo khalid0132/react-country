@@ -1,0 +1,13 @@
+.countryStyle {
+   border: 1px solid brown;
+   margin: 10px;
+   width: 200px;
+   padding: 10px;
+   margin: 0 auto;
+  
+}
+/* .country-display{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+} */
